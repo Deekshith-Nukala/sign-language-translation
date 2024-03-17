@@ -1,4 +1,12 @@
 # Speech-to-Sign-language-Translator
+videol link: https://youtu.be/oBa63MDWOdI
+
+teammates info:
+1. NIMMALA LOKESH :9921004509@klu.ac.in
+2. N DEEKSHITH: 99210041175@klu.ac.in
+3. P.ABHIRAM REDDY :9921004944@klu.ac.in
+4. D.MAHIDHAR :9921004801@klu.ac.in
+
 **An application which takes in live speech or audio recording as input, converts it into text and displays the relevant Indian Sign Language images or GIFs.**
 - Front-end using EasyGui.
 - Speech as input through microphone using PyAudio. 
